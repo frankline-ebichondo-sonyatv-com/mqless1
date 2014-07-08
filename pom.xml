@@ -37,4 +37,8 @@
       </plugin>
     </plugins>
   </build>
+  <scm>
+  	<url>https://github.com/frankline-ebichondo-sonyatv-com/mqless1</url>
+  	<developerConnection>https://github.com/frankline-ebichondo-sonyatv-com/mqless1</developerConnection>
+  </scm>
 </project>
